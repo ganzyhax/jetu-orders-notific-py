@@ -1,1 +1,1 @@
-worker: python background_prder_jetu.py
+worker: python background_order_jetu.py
